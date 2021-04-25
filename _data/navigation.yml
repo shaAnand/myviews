@@ -1,0 +1,11 @@
+# main links
+main:
+  - title: "Blockchain"
+    #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url : /blockchain/
+  - title: "Sustainability and Climate Change"
+    url: /Sustainability/
+  - title: "Artificial Intelligence"
+    url: /AI/
+  - title: "Privacy"
+    url: /Privacy/
